@@ -3,7 +3,7 @@ title: NHÀ ĐẤT LĨNH NAM # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
   Mua bán, tư vấn nhà đất Lĩnh Nam, Vĩnh Hưng, Nam Dư
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
