@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About
+title: NHÀ ĐẤT LĨNH NAM
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+Chuyên trang mua bán Nhà đất Lĩnh Nam. Nơi hội tụ những căn nhà đẹp nhất, với giá hợp lý nhất khu vực Lĩnh Nam, Nam Dư, Ngũ Nhạc, Thanh Lân, Thanh Đàm, Vĩnh Hưng, Đại Đồng.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+Mỗi căn nhà chúng tôi đăng bán đều hội tụ đầy đủ các yếu tố cho một ngôi nhà đẹp.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Với đội ngũ chuyên viên tư vấn Bất Động Sản giàu kinh nghiệm và tâm huyết, chúng tôi sẽ giúp bạn tìm được đúng ngôi nhà mà bạn mong muốn.
